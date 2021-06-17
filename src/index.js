@@ -1,7 +1,6 @@
 import './sass/main.scss';
 import gallery from "./js/gallery-cards";
 
-
 const lightBox = document.querySelector('.js-lightbox')
 const lightBoxImage = document.querySelector('.lightbox__image');
 const btn = document.querySelector('[data-action="close-lightbox"]');
